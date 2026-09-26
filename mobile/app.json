@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Dramora",
+    "slug": "dramora",
+    "scheme": "dramora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dramora.mobileapp",
+      "buildNumber": "1",
+      "requiresFullScreen": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

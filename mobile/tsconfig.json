@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "jsx": "react-jsx",
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": false,
+    "noEmit": true,
+    "types": [
+      "expo-router"
+    ]
+  },
+  "extends": "expo/tsconfig.base"
+}
